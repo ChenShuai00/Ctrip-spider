@@ -19,7 +19,7 @@
 pip install selenium
 ```
 
-Chrome WebDriver应与您的Chrome浏览器版本相对应，并放置在可执行路径中。
+[配置selenium](./配置selenium.md)
 
 ## 使用方法
 
